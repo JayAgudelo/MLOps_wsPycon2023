@@ -59,4 +59,5 @@ def load_and_log():
         run.log_artifact(raw_data)
 
 # testing
+#testing comment
 load_and_log()
